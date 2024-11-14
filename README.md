@@ -1,1 +1,1 @@
-# heat-series
+# c exercises
